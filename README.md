@@ -15,7 +15,7 @@ Train Test Split<br>
 Modeling<br>
 Model Evaluation<br>
 Prediction<br>     
-Explaination<br>
+Explaination
 **********************************************************************************
 
 In this project we are predicting the chance of admission of a candidate (y) based on several Independent variables like "GRE Score", "University Ranking", "SOP", etc
